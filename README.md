@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashmangla2000&label=Profile%20views&color=0e75b6&style=flat" alt="aakashmangla2000" /> </p>
 
-- 🔭 I’m currently working on **Backend using .NET and C#**
+- 🔭 I’m currently working on **Backend using SpringBoot**
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **Java and SpringBoot**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
