@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashmangla2000&label=Profile%20views&color=0e75b6&style=flat" alt="aakashmangla2000" /> </p>
 
-- 🔭 I’m currently working on **Backend using SpringBoot**
+- 🔭 I’m currently working on **Backend using ExpressJS and NodeJS**
 
-- 🌱 I’m currently learning **Java and SpringBoot**
+- 🌱 I’m currently learning **ElasticSearch and RabbitMQ**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
 - 👨‍💻 All of my projects are available at [https://aakashmangla.web.app/](https://aakashmangla.web.app/)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS and NodeJS**
 
 - 📫 How to reach me **aakashmangla15@gmail.com**
 
-- 📄 Know about my experiences [https://aakashmangla.web.app/images/Aakash_Res.pdf](https://aakashmangla.web.app/images/Aakash_Res.pdf)
+- 📄 Know about my experiences [https://aakashmangla.web.app/images/Aakash_Mangla_Resume_Final_1.pdf](https://aakashmangla.web.app/images/Aakash_Mangla_Resume_Final_1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
