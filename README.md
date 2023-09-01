@@ -9,13 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 👨‍💻 All of my projects are available at [https://aakashmangla.web.app/](https://aakashmangla.web.app/)
-
 - 💬 Ask me about **ReactJS and NodeJS**
 
 - 📫 How to reach me **aakashmangla15@gmail.com**
-
-- 📄 Know about my experiences [https://aakashmangla.web.app/images/Aakash_Mangla_Resume_Final_1.pdf](https://aakashmangla.web.app/images/Aakash_Mangla_Resume_Final_1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
